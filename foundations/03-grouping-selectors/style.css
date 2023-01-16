@@ -1,0 +1,15 @@
+.leftside,
+.rightside {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", serif;
+}
+
+.leftside {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.rightside {
+    background-color: #ffff00;
+    color: black;
+}

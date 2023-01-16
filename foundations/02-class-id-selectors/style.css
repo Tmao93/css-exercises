@@ -1,0 +1,24 @@
+#one,
+#cooler {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+    color: black;
+    background-color: #ffc0cb;
+
+}
+
+
+.odd {
+    color: #0000ff;
+    font-size: 24px;
+}
+
+.another-odd {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#five {
+    background-color: #ffc0cb;
+}
